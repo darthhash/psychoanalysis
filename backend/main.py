@@ -25,6 +25,7 @@ app.add_middleware(
         "http://localhost:3000",
         "https://lacanist.space",
         "https://www.lacanist.space",
+        "https://lacanist-web-915216114510.europe-west1.run.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
